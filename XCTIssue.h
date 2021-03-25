@@ -2,7 +2,7 @@
 //  Copyright © 2019 Apple Inc. All rights reserved.
 //
 
-#import "XCTestDefines.h>
+#import "XCTestDefines.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
